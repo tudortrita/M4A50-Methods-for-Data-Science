@@ -1,5 +1,5 @@
 # M4A50-Methods-for-Data-Science
-M4A50 Methods for Data Science (2019-2020) at Imperial College London
+M4A50 Methods for Data Science (2019-2020) at Imperial College London.
 
 #### Folders:
 - cw1: Coursework 1 graded at 89%. Introduction to data analysis, regression and classification. First task involves data cleaning and exploration. Second task explores performing regression using Linear and Ridge Regression as well as classification using Logistic Regression and Naïve Bayes.
